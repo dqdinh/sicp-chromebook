@@ -1,0 +1,8 @@
+#+name: hello-world
+
+#+begin_src lisp
+  (princ 1)
+#+end_src
+
+#+RESULTS:
+: 1
